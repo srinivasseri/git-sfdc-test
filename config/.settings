@@ -1,0 +1,19 @@
+{
+    "username": "srinivas.k2exponent@gmail.com", 
+    "environment": "developer", 
+    "project_name": "serisx", 
+    "workspace": "/Users/srinivasseri/Mavensmate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "92P47SSB71YVBSMU3LFXQ6F7S1HYXN8W", 
+    "metadata_container": "1dci0000000RVmaAAG", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
