@@ -29,6 +29,7 @@ public with sharing class TestPageController {
 	    	
 	    	for (question q:questionList) {
 	    		System.Debug('Question is ' + q);
+	    		System.Debug('Question is ' + q.choice);
 	    	}
 	    	return null; 
 	    	
